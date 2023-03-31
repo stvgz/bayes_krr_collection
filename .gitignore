@@ -1,0 +1,6 @@
+# Gitignore for Visual Studio Code
+
+.vscode/
+
+# for notebooks
+.ipynb_checkpoints/
